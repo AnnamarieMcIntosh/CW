@@ -203,7 +203,7 @@ a:hover, a:active {
 
 @media screen and (min-width: 576px){
     .site-title {
-        font-size: 112px;
+        font-size: 70px;
     }
 
     .site-description {
