@@ -186,8 +186,9 @@ a:hover, a:active {
 }
 
 .site-title a {
-    color: #2f2f2f;
+    color: #FFAFC5;
     text-decoration: none;
+    text-shadoww: 2px 2px #FF8CB2
 }
 
 .site-description {
